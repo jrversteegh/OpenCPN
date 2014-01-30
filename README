@@ -1,3 +1,9 @@
+This Fork geared towards using OpenCPN on linux systems.
+
+-> Factor out included libraries like gdal and zlib, since they
+are already easily available on linux.
+
+
 ----------------------------------------------------------------------
 1.  Overview
 ----------------------------------------------------------------------
